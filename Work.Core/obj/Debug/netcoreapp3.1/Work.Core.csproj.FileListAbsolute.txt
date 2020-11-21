@@ -1,0 +1,9 @@
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\bin\Debug\netcoreapp3.1\Work.Core.deps.json
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\bin\Debug\netcoreapp3.1\Work.Core.dll
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\bin\Debug\netcoreapp3.1\Work.Core.pdb
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.csproj.CoreCompileInputs.cache
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.AssemblyInfoInputs.cache
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.AssemblyInfo.cs
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.dll
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.pdb
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Core\obj\Debug\netcoreapp3.1\Work.Core.csprojAssemblyReference.cache

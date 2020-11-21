@@ -1,0 +1,15 @@
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Core.dll
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.csprojAssemblyReference.cache
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.AssemblyInfo.cs
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Infrastructure.deps.json
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Infrastructure.dll
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Infrastructure.pdb
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Core.pdb
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.csproj.CopyComplete
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.dll
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.pdb
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Infrastructure.runtimeconfig.json
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\bin\Debug\netcoreapp3.1\Work.Infrastructure.runtimeconfig.dev.json
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.genruntimeconfig.cache
+C:\Users\CORNELIUS\source\repos\CrudHomework\Work.Infrastructure\obj\Debug\netcoreapp3.1\Work.Infrastructure.csproj.CoreCompileInputs.cache
